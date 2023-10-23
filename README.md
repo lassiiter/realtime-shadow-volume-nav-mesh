@@ -1,4 +1,4 @@
-# Realtime Shadow Based NavMesh
+# Realtime Shadow Volume NavMesh
 Unity implementation of a NavMesh that is updated and exists solely in the shadows of objects  
 
 ![Screenshot 2022-03-03 192727](https://user-images.githubusercontent.com/50963416/156681593-e2453a4e-1e71-41d0-8444-71f2aa6b7a60.png)
