@@ -8,7 +8,7 @@ Games on older hardware created shadows using a method of stencil shadows or sha
 1. Manually select objects to exist on shadow physics layer  
 2. Raycast from the sun to each vertice of the object  
 3. Ignore collision with object and store collision position on environment  
-4. Remove internal points via https://en.wikipedia.org/wiki/Gift_wrapping_algorithm to create convex hull  
+4. Remove internal points via Jarvis March https://en.wikipedia.org/wiki/Gift_wrapping_algorithm to create convex hull  
 5. Create polygon from x points on the convex hull  
 
 Repeat  
